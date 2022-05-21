@@ -16,5 +16,5 @@ while isGuessRight != True :
 
 # If the user has not guessed the correct answer, enter loop.
 # Ask the user for a guess.
-# Is the correwct guess, tell the user it was correct and exit the loop.
+# Is the correct guess, tell the user it was correct and exit the loop.
 # If the wrong guess, tell the user it was the wrong guess and continue the loop
